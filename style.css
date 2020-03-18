@@ -6,15 +6,12 @@ body {
   font-weight: bolder;
 }
 
-h1{
-  font-family: 'Mukta', sans-serif;
-}
-h2, h3 {
+h1, h2, h3 {
   font-family: 'Baloo Chettan 2', cursive;
 }
 
 h1 {
-  color: #D45D79;
+  color: #C06C84;
   font-size: 35px;
   font-weight: 900;
 }
@@ -80,10 +77,10 @@ a:hover {
   border-radius: 50%;
 }
 .btn-blue {
-  background-color: #3282B8;
+  background-color: #C06C84;
   color: white;
-  padding: 15px 20px;
-  border-radius: 4px;
+  padding: 5px 10px;
+  border-radius: 1600px;
 }
 .btn-blue:hover {
   background-color: black;
@@ -129,5 +126,3 @@ a:hover {
     width: 300px;
   }
 }
-
-
